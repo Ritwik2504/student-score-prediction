@@ -95,4 +95,4 @@ student_score_prediction.ipynb
 
 ---
 
-Made with 💅 by a future ML engineer
+Made by a future ML engineer
